@@ -10,10 +10,12 @@
 
 # 📊 GitHub Stats:
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Torrescjua&theme=holi&hide_border=false&include_all_commits=false&count_private=false" height="195px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Torrescjua&theme=holi&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="195px"/>
-</p>
+<div align="center">
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 5px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=Torrescjua&theme=holi&hide_border=false&include_all_commits=false&count_private=false" style="width: 55%; min-width: 500px; height: 195px;"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Torrescjua&theme=holi&hide_border=false&include_all_commits=false&count_private=false&layout=compact" style="width: 35%; min-width: 300px; height: 195px;"/>
+  </div>
+</div>
 
 ### 🔝 Top Contributed Repo
 <p align="center">
