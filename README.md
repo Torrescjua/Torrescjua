@@ -10,10 +10,10 @@
 
 # 📊 GitHub Stats:
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=Torrescjua&theme=holi&hide_border=false&include_all_commits=false&count_private=false" height="195px" width="auto" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Torrescjua&theme=holi&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="195px" width="auto" />
-</p>
+<div style="display: flex; flex-wrap: wrap; justify-content: center;">
+  <img src="https://github-readme-stats.vercel.app/api?username=Torrescjua&theme=holi&hide_border=false&include_all_commits=false&count_private=false" height="195px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Torrescjua&theme=holi&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="195px" />
+</div>
 
 
 
